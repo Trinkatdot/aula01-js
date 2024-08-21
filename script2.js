@@ -6,3 +6,7 @@ var nome = window.prompt("informe o nome do primeiro aluno");
 var nota1 = window.prompt("informe a primeira nota 1");
 //converte de texto para decimal
 nota1 = parseFloat(nota1);
+//informar segunda nota
+var nota2 = window.prompt("informe a segunda nota");
+//converte de texto para decimal
+nota2 = parseFloat(nota2);

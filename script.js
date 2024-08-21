@@ -21,7 +21,7 @@ nota1 = parseFloat(nota1);
 //guardar segunda nota
 var nota2 = window.prompt("Digite a Nota 2");
 //converte de texto para decimal
-nota2aaa = parseFloat(nota2);
+nota2 = parseFloat(nota2);
 //soma a media das duas notas
 var media = (nota1 + nota2)/2;
 
